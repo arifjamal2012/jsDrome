@@ -6,7 +6,7 @@
       {
         "targets": {
           "chrome": "41",
-          "ie": "10",
+          "ie": "10"
         }
       }
     ]
@@ -18,5 +18,5 @@
  //   ["@babel/plugin-transform-runtime", {
   //    "regenerator": true
    // }]
-
-}
+  ]
+  }
